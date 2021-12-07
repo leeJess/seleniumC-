@@ -1,0 +1,13 @@
+/Users/jess/Documents/sc/bin/Debug/net5.0/publish/NUnit3.TestAdapter.dll
+/Users/jess/Documents/sc/bin/Debug/net5.0/publish/NUnit3.TestAdapter.pdb
+/Users/jess/Documents/sc/bin/Debug/net5.0/publish/nunit.engine.dll
+/Users/jess/Documents/sc/bin/Debug/net5.0/publish/nunit.engine.api.dll
+/Users/jess/Documents/sc/bin/Debug/net5.0/publish/nunit.engine.core.dll
+/Users/jess/Documents/sc/bin/Debug/net5.0/publish/testcentric.engine.metadata.dll
+/Users/jess/Documents/sc/bin/Debug/net5.0/publish/sc.dll
+/Users/jess/Documents/sc/bin/Debug/net5.0/publish/sc.deps.json
+/Users/jess/Documents/sc/bin/Debug/net5.0/publish/sc.runtimeconfig.json
+/Users/jess/Documents/sc/bin/Debug/net5.0/publish/sc.pdb
+/Users/jess/Documents/sc/bin/Debug/net5.0/publish/Newtonsoft.Json.dll
+/Users/jess/Documents/sc/bin/Debug/net5.0/publish/nunit.framework.dll
+/Users/jess/Documents/sc/bin/Debug/net5.0/publish/WebDriver.dll
